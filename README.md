@@ -31,5 +31,5 @@ I am in the Class of 2026 at Washington University in St. Louis, pursuing a majo
 
 ## 📫 Get in Touch
 
-<a href="https://www.linkedin.com/in/yerin16/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> &nbsp;
+<a href="https://www.linkedin.com/in/yerin16/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> &nbsp;
 <a href="mailto:dm.yrkang@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> &nbsp;
