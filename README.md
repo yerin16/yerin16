@@ -29,7 +29,8 @@ I am in the Class of 2026 at Washington University in St. Louis, pursuing a majo
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)&nbsp;
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
-![Final Cut Pro](https://img.shields.io/badge/final_cut_pro-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)&nbsp;\
+![Final Cut Pro](https://img.shields.io/badge/final_cut_pro-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)&nbsp;
+![Fusion 360](https://img.shields.io/badge/fusion_360-%23ff6b03.svg?style=for-the-badge&logo=autodesk&logoColor=white)&nbsp;\
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)&nbsp;
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)&nbsp;
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)&nbsp;
