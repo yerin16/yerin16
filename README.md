@@ -1,5 +1,5 @@
 # 👋 Hi, I am Yerin Kang
-I am in the Class of 2027 at WashU (Washington University in St. Louis), pursuing a major in Computer Science and minors in Human-Computer Interaction (HCI) and Biomedical Data Science.
+I am a junior at WashU (Washington University in St. Louis), pursuing a major in Computer Science and minors in Human-Computer Interaction (HCI) and Biomedical Data Science.
 
 
 ## ⚡ Tech Stack
